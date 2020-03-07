@@ -1,0 +1,29 @@
+body {
+    background: rgb(107, 96, 65);
+    
+}
+h1 {
+	text-align: center;
+	color: rgb(25, 23, 36);
+}
+a {
+	color: rgb(1, 38, 53);
+	font-size: 150%;
+	text-align: center;
+}
+
+li {
+	text-align: center;
+	line-height: 3;
+}
+
+hr {
+    border-top: 3px double rgb(37, 5, 5);
+	width: 50%;
+}
+
+.fragment{
+    display: block;
+
+}
+
